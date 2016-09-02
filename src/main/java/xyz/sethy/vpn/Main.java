@@ -18,7 +18,7 @@ public class Main extends JavaPlugin implements Listener
     }
 
     @EventHandler
-    public void onVPNSuccession(VPNKickEvent event)
+    public void onVPNKick(VPNKickEvent event)
     {
         event.setMessage(ChatColor.RED + "VPNs are  not allowed on this server.");
         Bukkit.broadcast(ChatColor.translateAlternateColorCodes('&', "&6&lAntiVPN &8* &6" + event.getPlayer().getName() + " tried to join the server with a VPN."), "staff.permission");
