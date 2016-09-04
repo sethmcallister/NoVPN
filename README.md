@@ -1,6 +1,4 @@
-# _Project_
-
-_Description: What does this project do and who does it serve?_
+# NoVPN
 
 ## Project Setup
 
@@ -15,18 +13,6 @@ _How do I, as a developer, start working on the project?_
 
 - _Required: Craftbukkit/Spigot or Bungeecord Server.._
 - _Required: Server has valid internet access._
-
-### _How to deploy_
-
-## Troubleshooting & Useful Tools
-
-_Examples of common tasks_
-
-> e.g.
-> 
-> - How to make curl requests while authenticated via oauth.
-> - How to monitor background jobs.
-> - How to run the app through a proxy.
 
 ## Contributing changes
 
